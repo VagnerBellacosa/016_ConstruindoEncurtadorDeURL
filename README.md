@@ -1,18 +1,21 @@
-# 016_DesenvolvimentoDeTestesUnitariosParaValidarUmaAPIRESTDeGerenciamentoEstoquesDeCerveja
+# LABS
 
-## CONTEÚDOS
+## 017_ConstruindoEncurtadorDeURL
 
-API JAVA
+### CONTEÚDOS
+
+ API com NodeJS, Typescript e MongoDB
 
 ### INFORMAÇÕES
 
-Teste unitario
+Acesso base de dados
 
 ### DESCRIÇÃO 
 
-Neste Labs você irá aprender a testar, unitariamente, uma API REST para o gerenciamento de estoques de cerveja. Vamos construir testes unitários para validar o nosso sistema de gerenciamento de estoques de cerveja desenvolvido em Spring Boot, e também apresentar os principais conceitos e vantagens de criar testes unitários com JUnit e Mockito. Além disso, vamos também mostrar como desenvolver funcionalidades da nossa API através da prática do TDD.  Spring Boot TDD
-
+Neste projeto desenvolva seu próprio encurtador de url a partir da construção de uma API com NodeJS, Typescript e MongoDB para a base de dados.
 Baseado no trabalho 
 
-#### Rodrigo Peleias
-#### Software Developer, ClickBus
+##### Alexia Pereira
+##### Senior Javascript Developer, Meta
+
+https://web.digitalinnovation.one/lab/construindo-encurtador-de-url/learning/8ca36e2c-683d-4f63-b2b0-6a6695bdf155
